@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    color: rgb(126, 40, 54);
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+    color: rgb(130, 67, 189);
+    font-weight: bold;
+}
