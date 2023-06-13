@@ -3,6 +3,9 @@ header {
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid black;
+    background-image: url(https://img.freepik.com/premium-photo/blue-paper-linkedin-abstract-background_608068-5090.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
